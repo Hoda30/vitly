@@ -153,8 +153,8 @@ Frontend will run on http://localhost:3000
 ## 🔐 Default Credentials
 
 After seeding the database:
-- **Admin**: admin@vitly.com / admin123
-- **User**: user@vitly.com / user123
+- **Admin**: admin@vitly.com / 
+- **User**: user@vitly.com /
 
 ⚠️ **Change these in production!**
 
